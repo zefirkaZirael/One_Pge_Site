@@ -1,0 +1,163 @@
+body{
+	 font-family: 'Oswald', sans-serif;
+	color:#1A4613;
+	font-size: 18px;
+	padding: 0;
+	margin: 0;
+	background: linear-gradient(#E8CFB2,#FCF8F3);
+}
+p, a, h1, h2, h3, h4, h5,{
+	margin:0;
+	padding: 0;
+}
+.container{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.first{
+	
+}
+ul, li{
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+.logo{
+	margin-right: 55px;
+	margin-top: 41px;
+}
+.nav{
+	display: flex;
+}
+.menu{
+	display:flex;
+	margin-top: 53px;
+}
+.menu li{
+	margin-right: 31px;
+	font-size: 20px;
+}
+.menu li a{
+	color:#1A4613;
+	text-decoration: none;
+}		
+.header-wtf{
+
+display: flex;
+}
+.offer{
+	
+	width: 570px;
+height: 523px;
+margin-bottom: 147px;	
+}
+
+.big-title{
+	font-size: 96px;
+	letter-spacing: 0.01em;
+line-height: 82px;
+}
+.intro{
+	text-transform: uppercase;
+	font-size: 18px;
+	letter-spacing: 0.04em;
+	margin-bottom: 62px;
+}
+.btn{
+	text-transform: uppercase;
+	font-size: 36px;
+	color:#1A4613;
+	text-decoration: none;
+	border: 3px solid #967147;
+	box-sizing: border-box;
+border-radius: 11px;
+padding: 9px 20px;
+transition: all 0.5s ease;
+margin-bottom: 44px;
+text-align: center;
+}
+.btn:hover{
+	background:#E8CFB2;
+	color:#fff; 
+}
+.Star{
+	margin-right: -268px;
+}
+.about{
+	padding-top: 146px;
+}
+.gallery{
+	width: 651px;
+height: 676px;
+margin-right: 13px;
+}
+.about-wtf{
+	display: flex;
+	align-items: center;
+}
+.textabout{
+width: 532px;
+height: 451px;
+}
+.sectiont{
+	font-size: 64px;
+	letter-spacing: 0.035em;
+	line-height: 85.2%;
+	text-align: center;	
+}
+.paragr{
+	text-align: center;
+letter-spacing: 0.03em;
+line-height: 153.2%;
+}
+.textabout .seectiont{
+	margin-bottom: 41px;
+}
+.cataloge{
+	padding-top: 146px;
+}
+.items-wtf{
+		display: flex;
+		margin-top: 49px;
+}
+.item {
+text-align: center;
+margin-right: 12px;
+}
+.item h3{
+	margin-top: 12px;
+	margin-bottom: 15px;
+}
+.price{
+
+}
+
+.add{
+	color: black;
+font-size: 18px;
+background-color: #6FBE69;
+text-decoration: none;
+box-sizing: border-box;
+border-radius: 18px;
+padding: 15px 32px;
+transition: all 0.5s ease;
+margin-bottom: 44px;
+text-align: center;
+}
+.add:hover{
+	background:#c3dbc1;
+	color:#1A4613; 
+}
+.footer{
+	padding-top: 152px;
+	padding-bottom: 147px;
+}
+.footer-wtf{
+	display: flex;
+	align-items: center;
+}
+.footer-wtf p{
+	font-size: 14px;
+		margin-left:55px;
+
+}
